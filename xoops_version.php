@@ -106,7 +106,7 @@ $modversion = [
     'hasSearch'           => 1,
     'search'              => [
         'file' => 'include/search.php',
-        'func' => 'pedigree_search',
+        'func' => 'xoopspoll_search',
     ],
     // ------------------- Comments -------------------------
     'hasComments'         => 1,
